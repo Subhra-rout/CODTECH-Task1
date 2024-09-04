@@ -10,6 +10,9 @@
 
 ## Project: Weather Forecast App
 
+![Screenshot 2024-09-04 184352](https://github.com/user-attachments/assets/10a09d10-2a0a-4b4e-8b0e-a70cdaa02e50)
+
+
 ### Objective
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location.
 
